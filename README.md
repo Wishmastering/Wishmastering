@@ -2,7 +2,7 @@
 
 Hi!  Thanks for taking the time to take a glance at my profile, stay just a little longer to see what I can offer!
 
-🔭 Currently working on [Where2day](https://github.com/Charlytoc/where2day) social app 
+🔭 Currently working on [My Own Portfolio]([https://github.com/Charlytoc/where2day](https://portfolio-website-s1gq.vercel.app/)) , is almost done 👨‍💻!
 
 🌱 Studied CS on 2013 for about 2years, but came around and **certified** myself with **4Geeks Bootcamp** and work with **Full Stack development with JS, React, Python, Flask-SQLAlchemy**
 
