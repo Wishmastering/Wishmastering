@@ -4,7 +4,7 @@ Hi!  Thanks for taking the time to take a glance at my profile, stay just a litt
 
 🔭 Currently working on [My Own Portfolio](https://portfolio-website-s1gq.vercel.app/) , is almost done 👨‍💻!
 
-🌱 Studied CS on 2013 for about 2years, but came around and **certified** myself with **4Geeks Bootcamp** and work with **Full Stack development with JS, React, Python, Flask-SQLAlchemy**
+🌱 Studied CS on 2014 for about 2years, but came around and **certified** myself with **4Geeks Bootcamp** and work with **Full Stack development with JS, React, Python, Flask-SQLAlchemy**
 
 💬 Ask me about **CSS, JavaScript, React and Python**
 
