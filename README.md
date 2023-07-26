@@ -2,14 +2,7 @@
 
 Hi!  Thanks for taking the time to take a glance at my profile, stay just a little longer to see what I can offer!
 
-🔭 Take a look at [My Own Portfolio](https://portfolio-website-s1gq.vercel.app/) 👨‍💻!
-
-🌱 Studied CS on 2014 for about 3years, but came around and **certified** myself with **4Geeks Bootcamp** and work with **Full Stack development with JS, React, Python, Flask-SQLAlchemy**
-
-💬 Ask me about **CSS, JavaScript, React and Python**
-
 📫 For inquiries, you can reach me at: **Charsdb@gmail.com**
-
 
 ### Connect with me: 
 
